@@ -62,4 +62,4 @@ This project was a great exercise in:
 
 ## 👤 Author
 Coded by **Ayokanmi Adejola**  
-Challenge by [devChallenges.io](https://devchallenges.io/)# Simple-Feature-Section
+Challenge by [devChallenges.io](https://devchallenges.io/)
