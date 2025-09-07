@@ -1,4 +1,4 @@
-# Simple Feature Section
+# Simple Feature Section | devChallenges.io
 
 ![Simple Feature Section Screenshot](./thumbnail.jpg)
 
@@ -6,6 +6,12 @@
 
 ## Overview
 This project is a solution to the [Simple Feature Section challenge](https://devchallenges.io/challenges-dashboard) on devChallenges.io. The goal was to build a pixel-perfect, responsive feature section using only HTML and CSS, closely matching the provided design.
+
+
+
+| Desktop | Tablet | Mobile |
+| ------- | ------ | ------ |
+| ![Desktop](./design/Desktop_1350px.jpg) | ![Tablet](./design/Tablet_1024px.jpg) | ![Mobile](./design/Mobile_412px.jpg) |
 
 ## Features
 - ✋ Modern, accessible, and semantic HTML5 structure
@@ -57,9 +63,3 @@ This project was a great exercise in:
 - Practicing semantic HTML and modern CSS
 - Building a fully responsive layout from scratch
 - Matching a design pixel-perfectly using only code and provided assets
-
----
-
-## 👤 Author
-Coded by **Ayokanmi Adejola**  
-Challenge by [devChallenges.io](https://devchallenges.io/)
